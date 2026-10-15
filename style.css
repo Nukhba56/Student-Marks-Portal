@@ -39,9 +39,8 @@ header {
   font-size: 26px;
 }
 
-.login-error {
-  display: center;
-  color: #c62828;
+.message {
+  display: block;
   font-size: 24px;
   margin-bottom: 12px;
 }
